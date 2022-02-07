@@ -1,15 +1,19 @@
-% Implimentation of safe, stratified negation in differentiable ILP.
+---
+title: Implimentation of safe, stratified negation in differentiable ILP.
+---
 
-Code base for paper published in AIPLANS 2021 workshop.
-Link to paper - https://openreview.net/pdf?id=BOtQHCVIh_K
+Code base for paper published in AIPLANS 2021 workshop. Link to paper -
+<https://openreview.net/pdf?id=BOtQHCVIh_K>
 
-Requirement: Tensorflow 2.0, python 3
+Requirements: Tensorflow 2.0, python 3
 
 To run prime example,
-```
+
+``` {.bash org-language="sh"}
 python main.py
 ```
 
+Credit
+======
 
-## Credit
-Based on https://github.com/ai-systems/DILP-Core
+Based on <https://github.com/ai-systems/DILP-Core>
