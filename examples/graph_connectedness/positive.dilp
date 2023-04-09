@@ -1,0 +1,10 @@
+    target(a,b).
+    target(b,c).
+    target(c,d).
+    target(b,a).
+    target(a,c).
+    target(a,d).
+    target(a,a).
+    target(b,d).
+    target(b,a).
+    target(b,b).
