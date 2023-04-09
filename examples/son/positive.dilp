@@ -1,0 +1,4 @@
+
+    target(b,a).
+    target(c,a).
+    target(e,d).
