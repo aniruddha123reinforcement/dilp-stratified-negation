@@ -8,3 +8,7 @@
     target(b,d).
     target(b,a).
     target(b,b).
+    target(e,f).
+    target(f,e).
+    target(e,e).
+    target(f,f).
