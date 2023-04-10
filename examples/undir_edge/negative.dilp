@@ -1,1 +1,9 @@
-
+target(d,c).
+target(c,d).
+target(a,a).
+target(b,b).
+target(d,d).
+target(a,c).
+target(c,a).
+target(b,c).
+target(c,b).
